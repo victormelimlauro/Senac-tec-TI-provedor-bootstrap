@@ -1,0 +1,22 @@
+		<div class="container-fluid text-white bg-dark p-4">
+  			<div class="container"> 
+		 	
+				  <div class="form-row">
+					<div class="form-group col-md-6 text-left">
+					  <a class="" id="">texto 1</a>
+					</div>
+					<div class="form-group col-md-6 text-right d-none d-md-inline">
+					  <a class="" id="">texto 3</a>
+					</div>
+				  </div>
+				  <div class="form-row">
+					<div class="form-group col-md-6 text-left">
+					  <a class="" id="">texto 2</a>
+					</div>
+					<div class="form-group col-md-6 text-left d-md-none d-sm-inline">
+					  <a class="" id="">texto 3</a>
+					</div>
+				  </div>
+				
+			</div>
+		</div>
