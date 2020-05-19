@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+@media (min-width: 576px) { 
+		#it3 {
+		text-align: left !important;
+		}
+}
+@media (min-width: 768px) { 
+		#it3 {
+		text-align: left !important;
+		}
+}
+@media (min-width: 992px) { 
+	#it3 {
+	text-align: right !important;
+	}
+}
+@media (min-width: 1200px) {
+	#it3 {
+	text-align: right !important;
+	}	
+}
